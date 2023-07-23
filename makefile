@@ -1,4 +1,4 @@
-README.md: guessing_game.sh
+README.md: guessinggame.sh
 	echo "## The Unix Workbench Project" > README.md
 	echo "**Title:** GuessingGame" >> README.md
 	echo "**Creation date:** $(date '+%d/%m/%Y')" >> README.md
