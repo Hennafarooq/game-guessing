@@ -4,4 +4,4 @@ README.md: guessing_game.sh
 	echo "**Creation date:** $(date '+%d/%m/%Y')" >> README.md
 	echo "**Creation Time:** $(date '+%H:%M:%S')" >> README.md
 	echo "**Number of lines in guessing_game.sh:**" >> README.md
-	cat guessing_game.sh | wc -l >> README.md
+	cat guessinggame.sh | wc -l >> README.md
